@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityTest", "EntityTest\EntityTest.csproj", "{0CC9EE23-F11F-458D-BA46-EE48EE012BCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Tests", "Playground.Tests\Playground.Tests.csproj", "{F7A85AB4-E808-4A16-87D8-400BC1E5C92F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{0CC9EE23-F11F-458D-BA46-EE48EE012BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CC9EE23-F11F-458D-BA46-EE48EE012BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CC9EE23-F11F-458D-BA46-EE48EE012BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A85AB4-E808-4A16-87D8-400BC1E5C92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A85AB4-E808-4A16-87D8-400BC1E5C92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A85AB4-E808-4A16-87D8-400BC1E5C92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A85AB4-E808-4A16-87D8-400BC1E5C92F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331A0CA1-05A1-4F05-A7F6-219E1BC38264}
 	EndGlobalSection
 EndGlobal
